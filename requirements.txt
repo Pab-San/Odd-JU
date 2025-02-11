@@ -5,3 +5,4 @@ numpy
 scipy
 seaborn
 scikit-learn
+openpyxl
